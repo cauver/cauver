@@ -1,0 +1,5 @@
+<?php
+   echo gcho "CPG";
+   c=a+b;
+   print "c=".c;
+?>
